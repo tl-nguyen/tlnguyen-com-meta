@@ -1,3 +1,7 @@
 {
-  "projects": {}
+  "projects": {
+    "tlnguyen-com-infra": "git@github.com:tl-nguyen/tlnguyen-com-infra.git",
+    "tlnguyen-com-demo": "git@github.com:tl-nguyen/tlnguyen-com-demo.git",
+    "tlnguyen-com-demo-deployment": "git@github.com:tl-nguyen/tlnguyen-com-demo-deployment.git"
+  }
 }
